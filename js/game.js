@@ -30,7 +30,7 @@ fetch("json/question.json").then(res =>{
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 3;
+const MAX_QUESTIONS = 6;
 
 //set all fields to 0 at start of game
 //use spread operator ()...) take the array spread ut each of its item into a new array
