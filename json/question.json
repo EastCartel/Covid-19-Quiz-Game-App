@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is a coronavirus? What is COVID-19?",
+        "choice1": "Its a scam pull",
+        "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
+        "choice3": "End of the world panaedemic",
+        "choice4": "Similar to the malaria virus",
+        "answer": 2
+    },
+    {
+        "question": "Is there a cure to covid-19",
+        "choice1": "Its a scam pull",
+        "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
+        "choice3": "End of the world panaedemic",
+        "choice4": "not yet",
+        "answer": 4
+    },
+    {
+        "question": "Is covid-19 a death sentence",
+        "choice1": "Its a scam pull",
+        "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
+        "choice3": "probably not",
+        "choice4": "Similar to the malaria virus",
+        "answer": 3
+    }
+]
