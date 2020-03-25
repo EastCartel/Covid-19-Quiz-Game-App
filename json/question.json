@@ -1,14 +1,22 @@
 [
     {
+<<<<<<< HEAD
         "question": "What is a coronavirus?",
         "choice1": "Its a scam pull",
         "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
         "choice3": "End of the world pandemic",
+=======
+        "question": "What is a coronavirus? What is COVID-19?",
+        "choice1": "Its a scam pull",
+        "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
+        "choice3": "End of the world panaedemic",
+>>>>>>> c055a097dd26df1541f30392d4733f37703661a9
         "choice4": "Similar to the malaria virus",
         "answer": 2
     },
     {
         "question": "Is there a cure to covid-19",
+<<<<<<< HEAD
         "choice1": "Herbs can cure it",
         "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
         "choice3": "End of the world panaedemic",
@@ -46,5 +54,20 @@
         "choice3": "Hug people more frequently",
         "choice4": "Self medication",
         "answer": 1
+=======
+        "choice1": "Its a scam pull",
+        "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
+        "choice3": "End of the world panaedemic",
+        "choice4": "not yet",
+        "answer": 4
+    },
+    {
+        "question": "Is covid-19 a death sentence",
+        "choice1": "Its a scam pull",
+        "choice2": "Coronaviruses are a large family of viruses that can cause illness in animals and humans",
+        "choice3": "probably not",
+        "choice4": "Similar to the malaria virus",
+        "answer": 3
+>>>>>>> c055a097dd26df1541f30392d4733f37703661a9
     }
 ]
